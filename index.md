@@ -1,10 +1,10 @@
-## Portfolio
+## Data Portfolio
 
 ---
 
-### Category Name 1 
+### My Projects
 
-[Project 1 Title](/sample_page)
+[DoorDash Data Analysis](https://docs.google.com/document/d/1AmXH73RsPdIKZIfaGrP0OdVnuMlXLdlZ9OY5y9uks28/edit?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,15 +17,7 @@
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
