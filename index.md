@@ -12,7 +12,7 @@
 <img src="images/mass_ed.jpg?raw=true"/>
 
 ---
-[Cyclistic Bike Share Analysis]([http://example.com/](https://docs.google.com/presentation/d/1Omxdm-CX72FnN-4j-oA7WHJS4WoApaaGYp8-pN8kG_o/edit?usp=sharing))
+[Cyclistic Bike Share Analysis](https://docs.google.com/presentation/d/1Omxdm-CX72FnN-4j-oA7WHJS4WoApaaGYp8-pN8kG_o/edit?usp=sharing)
 <img src="images/cyclistic.JPG?raw=true"/>
 
 ---
