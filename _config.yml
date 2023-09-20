@@ -1,6 +1,8 @@
 title: Kiffany Francis # your name (or website title) here
 logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+ <br><br>
+  <a href="https://www.linkedin.com/in/kiffany-francis/">View My LinkedIn Profile</a> 
   Experienced database manager comfortable with coding
   <br><br>
   Advanced Excel, SQL, Python, JavaScript, React, Tableau, Power BI
@@ -8,6 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Excellent writing and research skills - former high school English teacher and librarian
   <br><br>
   BS in Math, BA in English, MEd in Education
+  <br><br>
   <a href="https://www.linkedin.com/in/kiffany-francis/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
