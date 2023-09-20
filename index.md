@@ -5,14 +5,17 @@
 ### My Projects
 
 [DoorDash Data Analysis](https://docs.google.com/document/d/1AmXH73RsPdIKZIfaGrP0OdVnuMlXLdlZ9OY5y9uks28/edit?usp=sharing)
+Technologies: Excel, Canva
 <img src="images/doordash.jpg?raw=true"/>
 
 ---
 [State of Massachusetts Education Review](https://docs.google.com/document/d/1XMOUhgPvE4M2QxnWjWgbOgV-De17NHVIZtRFEEuQLHk/edit)
+Technologies: Excel, Canva, SQL
 <img src="images/mass_ed.jpg?raw=true"/>
 
 ---
 [Cyclistic Bike Share Analysis](https://docs.google.com/presentation/d/1Omxdm-CX72FnN-4j-oA7WHJS4WoApaaGYp8-pN8kG_o/edit?usp=sharing)
+Technologies: BigQuery, Excel, SQL
 <img src="images/cyclistic.JPG?raw=true"/>
 
 ---
